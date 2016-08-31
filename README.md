@@ -19,9 +19,9 @@
 
 ## More information
 
-The schematic and PCB layout are created using (expresspcb)[https://www.expresspcb.com/]. You can make your own modifications and order new PCB directly inside that program.
+The schematic and PCB layout are created using [expresspcb](https://www.expresspcb.com/). You can view and make your own modifications and order new PCB directly inside that program. Maybe share your modifications via github "pull request".
 
-And you can "submit" your modifications to us via github "pull request".
+Or order your break out board today at [tindie.com](https://www.tindie.com/products/circuit4u/pic32mz-pim-breakout-board/)
 
-Order your break out board today at (tindie.com)[https://www.tindie.com/products/circuit4u/pic32mz-pim-breakout-board/]
+We will gather more Harmony software projects into this repository as well. 
 
